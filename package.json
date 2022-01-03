@@ -4,6 +4,7 @@
 	"description": "BackEnd Development and APIs exercise with Node.js for FreeCodeCamp",
 	"keywords": [ "freecodecamp", "backend", "apis", "nodejs" ],
 	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
